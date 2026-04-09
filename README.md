@@ -1,16 +1,15 @@
-## Hi there 👋
+## Pixel Takeaway
 
-<!--
-**pixeltakeaway/pixeltakeaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Run by [Sergei Golubev](https://sgolubev.com) – entrepreneurial UX designer in London.
+- 20+ years of experience
+- 1000+ clients from Microsoft to NHS
+- Over 10 startups
 
-Here are some ideas to get you started:
+## Latest projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GrandmaKnows](https://grandmaknows.com) — conversational web analytics you can query in plain English  
+- [AdRoaster](https://adroaster.com) — improve ROAS across Meta, Google, and LinkedIn campaigns  
+- [ViaInvoice](https://viainvoice.co.uk) — B2B invoicing to accept payments via invoice  
+- [LaunchBench](https://launchbench.co.uk) — CRM, invoicing, and tools for freelancers  
+- [Two Variants](https://twovariants.com) — A/B testing with a visual editor  
+- [Portfolio Feedback](https://pixeltakeaway.com) — personalised UX portfolio reviews with annotated feedback
