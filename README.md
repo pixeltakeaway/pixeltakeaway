@@ -1,9 +1,9 @@
 ## Pixel Takeaway
 
-Run by [Sergei Golubev](https://sgolubev.com) – entrepreneurial UX designer in London.
-- 20+ years of experience
+- 20+ years of experience in UX design
 - 1000+ clients from Microsoft to NHS
 - Over 10 startups
+- Run by [Sergei Golubev](https://sgolubev.com)
 
 ## Latest projects
 
