@@ -1,7 +1,7 @@
 ## Pixel Takeaway
 
 - 20+ years of experience in UX design
-- 1000+ clients from Microsoft to NHS
+- 1000+ clients: from Microsoft to NHS
 - Over 10 startups
 - Run by [Sergei Golubev](https://sgolubev.com)
 
