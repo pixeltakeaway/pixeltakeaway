@@ -7,9 +7,9 @@
 
 ## Latest projects
 
-- [GrandmaKnows](https://grandmaknows.com) — conversational web analytics you can query in plain English  
+- [GrandmaKnows](https://grandmaknows.com) — conversational web analytics you can query in plain English
+- [ViaInvoice](https://viainvoice.co.uk) — B2B invoicing platform for accepting payments via invoice directly on websites
 - [AdRoaster](https://adroaster.com) — improve ROAS across Meta, Google, and LinkedIn campaigns  
-- [ViaInvoice](https://viainvoice.co.uk) — B2B invoicing to accept payments via invoice  
 - [LaunchBench](https://launchbench.co.uk) — CRM, invoicing, and tools for freelancers  
 - [Two Variants](https://twovariants.com) — A/B testing with a visual editor  
-- [Portfolio Feedback](https://pixeltakeaway.com) — personalised UX portfolio reviews with annotated feedback
+- [Portfolio Feedback](https://portfoliofeedback.com) — personalised UX portfolio reviews with annotated feedback
